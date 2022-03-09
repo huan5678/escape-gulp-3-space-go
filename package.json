@@ -36,5 +36,8 @@
   },
   "devDependencies": {
     "gulp-ejs": "^5.1.0"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.9"
   }
 }
